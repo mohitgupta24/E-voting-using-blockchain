@@ -1,0 +1,59 @@
+.co1{
+    height:530px;
+    width:730px;
+    margin: auto;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+    border: .5px solid whitesmoke; 
+    border-radius: 10px;
+    
+    /* border-style: dotted; */
+    
+   
+}
+.co2{
+    
+    
+    /* border: 2px solid black; */
+    background-image: url(../images/Commission.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 50%;
+    height: 100%;
+    
+}
+.co3{
+    /* border: 2px solid blue; */
+    width: 50%;
+    height: 100%;
+}
+.co31{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid black; 
+    color: rgb(244, 241, 241);
+    text-shadow: 2px 2px 4px #000000;
+    height: 10%;
+    width: 100%;
+
+}
+.co4{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding:10px;
+}
+input{
+    background-color: rgb(229,238,245);
+    color: black !important;
+   
+}
+
+.co1 button
+{
+margin-left: 125px !important; 
+}

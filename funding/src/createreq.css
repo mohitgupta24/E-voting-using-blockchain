@@ -1,0 +1,34 @@
+h1
+{
+    color:red;
+    margin-top: 50px;
+}
+.containerss
+{
+    border: 2px solid black;
+    border-radius: 1cm;
+    height: 350px;
+    width: 350px;
+    margin: auto;
+    padding-top: 10px;
+    box-sizing:content-box;
+}
+input
+{
+    display: block;
+    margin-top: 10px;
+}
+.App
+{
+     margin-left: 60px; 
+    
+}
+.App-input
+{
+    text-align: center;
+}
+button{
+    margin-top: 25px;
+    margin-left: 10px;
+    text-align: center;
+}

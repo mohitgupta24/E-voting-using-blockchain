@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "firebase": "^9.18.0",
+    "ipfs-http-client": "^56.0.3",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^4.0.3",
+    "react-toastify": "^9.0.5",
+    "web3": "^1.7.0"
+  }
+}

@@ -1,0 +1,11 @@
+.stat{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+    border: 2px solid black;
+}

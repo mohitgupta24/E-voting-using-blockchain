@@ -1,0 +1,66 @@
+.conOuter{
+    display: flex;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 160px;
+    /* justify-content: center; */
+    align-items: center;
+    width: 700px;
+    height: 500px;
+    /* padding-inline: 10px; */
+    
+    
+    
+}
+.conImage{
+background-image: url(../images/candidate.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 57%;
+    height: 100%;
+    
+}
+.conForm{
+    
+    /* margin: auto; */
+    width: 43%;
+    height: 100%;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+.conForm form{
+    margin-top: 75px;
+}
+/* .conOuter button{
+    margin-left:50px;
+    margin-bottom: 5px;
+   
+}  */
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    /* justify-content: center; */
+    /* margin-left: 10px; */
+}
+.space{
+    margin: auto;
+    margin-top: 30px;
+    width: 600px;
+}
+.formbut{
+    display: flex;
+    flex-direction: row;
+}
+
+.form input{
+    margin-left: 70px;
+}
+.form label{
+    margin-left: 70px;
+}
